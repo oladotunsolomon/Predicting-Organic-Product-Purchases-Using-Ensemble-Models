@@ -1,4 +1,4 @@
-# Predicting-Organic-Product-Purchases-Using-Ensemble-Models
+# Predicting Organic Product Purchases Using Ensemble Models
 This project addresses the supermarket’s need to identify customers who are most likely to purchase organic products. Using historical data on customer demographics and purchasing behavior, the project develops, compares, and evaluates several predictive models including Decision Tree, Logistic Regression, Neural Network, and an Ensemble Model to classify customers based on their likelihood to buy organic products.
 
 The overall goal is to improve prediction accuracy so that the supermarket can better target marketing campaigns, reduce promotional costs, and increase sales of organic products. The project follows the CRISP-DM framework, covering business understanding, data understanding, preparation, modeling, evaluation, and comparison of results. Through this structured approach, the final recommendation identifies the most effective model for deployment in targeted marketing initiatives.
